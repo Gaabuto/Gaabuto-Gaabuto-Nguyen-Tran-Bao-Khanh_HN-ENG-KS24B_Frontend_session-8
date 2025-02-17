@@ -1,0 +1,26 @@
+table{
+    background-color: purple;
+    margin: 5px;
+    padding: 20px;
+}
+input{
+    background-color: purple;
+}
+textarea{
+    background-color: purple;
+    height: 100px;
+    width: 100%;
+}
+button{
+    margin-top: 10px;
+    width: 100px;
+    height: 35px;
+    font-size: 10px;
+    border-radius: 5px;
+}
+label{
+    color: white;
+    margin-top: 10px;
+    display: inline-block;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,17 @@
+.img{
+    width: 150px;
+}
+table{
+    border-collapse: collapse;
+}
+button{
+    background-color: white;
+    border-color: orange;
+    color: orange;
+    margin-bottom: 10px;
+    width: 60px;
+    height: 30px;
+}
+h1{
+    border-bottom: 1px solid orange; width: 230px; opacity: 1,5;
+}
